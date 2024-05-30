@@ -1,0 +1,17 @@
+{
+    "name": "lp/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lowis",
+            "email": "lowispurba0306@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"lp\\labhello\\" : "src/"}
+    },
+    "require": {}
+}
